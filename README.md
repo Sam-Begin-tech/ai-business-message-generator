@@ -18,7 +18,7 @@ An AI-powered web app built with **Streamlit** that helps businesses generate en
 
 ## 📸 Demo
 
-![Demo Screenshot](demo.png) <!-- Add your own screenshot here -->
+![Demo Screenshot](ai-business-message-generator_demo.png) 
 
 ---
 
@@ -29,3 +29,50 @@ An AI-powered web app built with **Streamlit** that helps businesses generate en
 ```bash
 git clone https://github.com/yourusername/ai-business-message-generator.git
 cd ai-business-message-generator
+
+---
+
+## 🔧 Setup & Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/ai-business-message-generator.git
+cd ai-business-message-generator
+````
+
+### 2. Install Dependencies
+
+Make sure Python 3.8+ is installed.
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the App
+
+```bash
+streamlit run app.py
+```
+---
+
+## 🔐 API Keys
+
+You’ll be prompted to enter:
+
+* **OpenAI API Key** (get from [https://platform.openai.com/api-keys](https://platform.openai.com/api-keys))
+* **Google API Key** (for Gemini, from [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey))
+
+No `.env` file is required — API keys are handled directly in the UI.
+
+---
+
+
+## 🛠 Tech Stack
+
+* **Frontend/UI**: Streamlit
+* **AI Models**: Google Gemini, OpenAI GPT
+* **LangChain**: for LLM chaining and prompt management
+* **Python**: core backend
+
+---

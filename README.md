@@ -22,9 +22,7 @@ An AI-powered web app built with **Streamlit** that helps businesses generate en
 
 👉 [Click here to try the app!](https://ai-business-message-generator.streamlit.app/)
 
----
 
-## 📸 Demo
 
 ![Demo Screenshot](ai-business-message-generator_demo.png) 
 

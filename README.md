@@ -14,6 +14,14 @@ An AI-powered web app built with **Streamlit** that helps businesses generate en
 - 😎 Optional emoji toggle for fun, modern messaging
 - 💡 Fast and simple UI built with Streamlit
 
+
+
+---
+
+## 🎯 Live Demo
+
+👉 [Click here to try the app!](https://ai-business-message-generator.streamlit.app/)
+
 ---
 
 ## 📸 Demo
